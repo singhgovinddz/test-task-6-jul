@@ -1,3 +1,8 @@
+# memoizer function
+a function to calculate factorial value with memoizer.
+
+``` file name:  memoizer-function.ts ```
+
 # Account APIs
 
 ### step 1 : install dependencies
